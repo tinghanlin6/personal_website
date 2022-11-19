@@ -1,0 +1,19 @@
+project:
+  type: website
+
+website:
+  title: "tinghan's blog"
+  navbar:
+    right:
+      - about.qmd
+      - icon: github
+        href: https://github.com/tinghanlin6
+      - icon: linkedin
+        href: https://www.linkedin.com/in/tinghanlin/
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+editor: visual
+
